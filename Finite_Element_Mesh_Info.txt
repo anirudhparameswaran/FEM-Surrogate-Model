@@ -1,0 +1,27 @@
+coordinates: numeric array[349, 4]
+	[ , 1] coordinate number
+	[ , 2] x-coordinate
+	[ , 3] y-coordinate
+	[ , 4] z-coordinate
+	
+membrane: integer array[616, 4]
+	[ , 1] element number
+	[ , 2] number of first coordinate
+	[ , 3] number of second coordinate
+	[ , 4] number of third coordinate
+	
+edge: integer array[68, 3]
+	[ , 1] element number
+	[ , 2] number of first coordinate
+	[ , 3] number of second coordinate
+
+support: integer array[4, 3]
+	[ , 1] element number
+	[ , 2] number of first coordinate
+	[ , 3] number of second coordinate
+
+truss: integer array[2, 3]
+	[ , 1] element number
+	[ , 2] number of first coordinate
+	[ , 3] number of second coordinate
+
