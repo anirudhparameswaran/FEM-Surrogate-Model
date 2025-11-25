@@ -1,0 +1,8 @@
+input,unit,dist,mean,sd,variance
+f_mem,kPa,Gumbel,0.4,0.12,0.0144
+sigma_mem_y,kPa,Lognormal,11000,1650,2722500
+sigma_mem,kPa,Lognormal,4000,800,640000
+E_mem,kPa,Lognormal,600000,90000,8100000000
+sigma_edg,kPa,Lognormal,353677.6513,70735.53026,5003515242
+sigma_sup,kPa,Lognormal,400834.6715,80166.9343,6426737355
+nu_mem,,Uniform,0.4,0.01154700538,0.0001333333333
